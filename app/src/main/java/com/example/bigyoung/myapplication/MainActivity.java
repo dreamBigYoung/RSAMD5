@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         int jj;
         int hh;
         //it is branch one
+        //修复版本1的bug
     }
 }
